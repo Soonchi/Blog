@@ -1,0 +1,36 @@
+.customers {
+    text-align: center;
+    margin-top: 150px !important;
+    .text {
+        text-align: center;
+        h3 {
+            font-size: 46px;
+            font-weight: 600;
+            letter-spacing: -1px;
+            line-height: 59.8px;
+        }
+    }
+
+    .list {
+        .item {
+            border: 1px solid #F1F3F7;
+            .soon {
+                h3 {
+                    font-size: 25px;
+                    font-weight: 500;
+                    letter-spacing: -0.5px;
+                    line-height: 32.5px;
+                }
+
+                p {
+                    margin-top: 20px;
+                    letter-spacing: -0.2px;
+                    line-height: 24px;
+                }
+            }
+        }
+        .item:hover {
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        }
+    }
+}

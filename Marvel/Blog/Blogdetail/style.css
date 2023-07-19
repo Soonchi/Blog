@@ -1,0 +1,14 @@
+.userpost {
+  margin-top: 100px !important;
+}
+
+.signup .text .row .col-md-6 button {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+}
+.signup .text .row .col-md-6 button a {
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=style.css.map */

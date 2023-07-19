@@ -1,0 +1,68 @@
+header {
+    background-color: #60D2C9;
+}
+
+
+
+.intro {
+    justify-content: center;
+
+    .text-intro {
+        display: inline-block;
+        width: 600px;
+        height: auto;
+        text-align: center;
+
+        h3 {
+            font-size: 46px;
+            font-weight: 500;
+        }
+
+        p {
+            font-size: 17px;
+            letter-spacing: -0.2px;
+            line-height: 27.2px;
+            margin-top: 30px;
+        }
+
+    }
+
+    .content2 {
+        display: flex;
+        margin-top: 100px;
+
+        .row {
+            align-items: center;
+            .content-left {
+                text-align: left;
+                cursor: pointer;
+    
+                div {
+    
+                    h4 {
+                        font-size: 17px;
+                        letter-spacing: -0.2px;
+                        margin-bottom: 10px;
+                    }
+    
+                    p {
+                        margin: 15px 0px 50px 0px;
+                        line-height: 24px;
+                    }
+    
+                    svg {
+                        path {
+                            fill: #60D2C9;
+                        }
+                    }
+                }
+    
+    
+            }
+        }
+        
+
+    }
+
+}
+

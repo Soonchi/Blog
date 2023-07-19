@@ -1,0 +1,49 @@
+.container {
+  margin-top: 150px;
+}
+.container .title {
+  height: auto;
+  text-align: center;
+}
+.container .title h3 {
+  font-size: 60px;
+  font-weight: 600;
+  letter-spacing: -1px;
+  line-height: 76px;
+}
+.container .title p {
+  height: auto;
+  font-size: 25px;
+  letter-spacing: -0.5px;
+  line-height: 40px;
+}
+.container .wrap {
+  text-align: center;
+}
+.container .wrap .item {
+  margin-top: 100px;
+}
+.container .wrap .item img:hover {
+  opacity: 0.5;
+}
+.container .wrap .item .text h3 {
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  line-height: 32.5px;
+}
+.container .wrap .item .text p {
+  font-size: 17px;
+  letter-spacing: -0.2px;
+  line-height: 27.2px;
+}
+.container .wrap .item .text .circle {
+  margin-top: 30px;
+}
+.container .wrap .item .text .circle span {
+  background-color: white;
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 15px;
+  color: black;
+}/*# sourceMappingURL=style.css.map */

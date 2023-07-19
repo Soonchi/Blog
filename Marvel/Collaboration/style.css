@@ -1,0 +1,62 @@
+header {
+  background-color: #FF977A;
+}
+
+.com1 {
+  background-color: #FF977A;
+  color: white;
+}
+
+.instantly {
+  margin-top: 100px;
+}
+.instantly .turn {
+  z-index: 200;
+}
+.instantly .turn h3 {
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: -1px;
+  line-height: 46.8px;
+}
+.instantly .turn p {
+  padding: 20px 0px;
+  font-size: 17px;
+  letter-spacing: -0.2px;
+  line-height: 27.2px;
+}
+
+.text p a {
+  text-decoration: none;
+}
+
+.customers {
+  text-align: center;
+  margin-top: 150px;
+}
+.customers .text {
+  text-align: center;
+}
+.customers .text h3 {
+  font-size: 46px;
+  font-weight: 600;
+  letter-spacing: -1px;
+  line-height: 59.8px;
+}
+.customers .list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.customers .list .item .soon h3 {
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: -0.5px;
+  line-height: 32.5px;
+}
+.customers .list .item .soon p {
+  margin-top: 20px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+}/*# sourceMappingURL=style.css.map */

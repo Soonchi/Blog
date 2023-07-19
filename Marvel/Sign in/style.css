@@ -1,0 +1,142 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+html {
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+}
+
+.left .content {
+  padding: 60px 0px;
+}
+.left .content svg {
+  height: 100px;
+}
+.left .content svg a path {
+  fill: #1FB6FF;
+  width: 69px;
+  height: 30px;
+}
+.left .content h1 {
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: -1px;
+  line-height: 46.8px;
+  margin-bottom: 30px;
+}
+.left .content form label {
+  line-height: 26px;
+  font-size: 16px;
+  padding-top: 20px;
+}
+.left .content form span {
+  color: #1FB6FF;
+  float: right;
+}
+.left .content form input {
+  width: 100%;
+  padding: 10px 10px;
+  border: 1px solid #DAE0E6;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.left .content form input ::-moz-placeholder {
+  color: #DAE0E6;
+}
+.left .content form input ::placeholder {
+  color: #DAE0E6;
+}
+.left .content form button {
+  width: 100%;
+  padding: 15px 0px;
+  background-color: #60D956;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+.left .content .or {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.left .content .or div {
+  width: 100%;
+  height: 1px;
+  background-color: #DAE0E6;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.left .content .signupgg {
+  display: flex;
+  width: 100%;
+  padding: 15px 0px;
+  background-color: white;
+  border: 1px solid #DAE0E6;
+  color: black;
+  cursor: pointer;
+  margin-bottom: 60px;
+  justify-content: center;
+  align-items: center;
+}
+.left .content .signupgg svg {
+  width: 26px;
+  height: 26px;
+  margin-right: 10px;
+}
+.left .content .signupgg:hover {
+  background-color: #dc4e41;
+  color: white;
+}
+.left .content .contact {
+  text-align: left;
+}
+.left .content .contact p {
+  font-size: 17px;
+  line-height: 24px;
+}
+.left .content .contact p a {
+  text-decoration: none;
+  color: #1FB6FF;
+}
+
+.right {
+  text-align: center;
+  background-color: #FFF2E5;
+  position: relative;
+}
+.right .text {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.right .text .contentText {
+  text-align: center;
+}
+.right .text .contentText h3 {
+  font-size: 25px;
+  font-weight: 600px;
+  letter-spacing: -0.5px;
+  line-height: 32.5px;
+}
+.right .text .contentText p {
+  font-size: 17px;
+  letter-spacing: -0.2px;
+  line-height: 22.1px;
+  margin: 20px;
+}
+.right .text .contentText button {
+  padding: 10px;
+  background-color: #FFF2E5;
+  border: 1px solid #DAE0E6;
+  cursor: pointer;
+}
+.right .text .contentText button:hover {
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
